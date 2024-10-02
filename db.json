@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "titre": "titre1",
+      "auteur": "auteur1",
+      "contenu": "test1",
+      "likes": 27,
+      "id": "1"
+    },
+    {
+      "titre": "titre2",
+      "auteur": "auteur2",
+      "contenu": "test2",
+      "likes": 22
+      "id": "2"
+    },
+    {
+      "titre": "titre3",
+      "auteur": "auteur3",
+      "contenu": "test3",
+      "likes": 122,
+      "id": "3"
+    }
+  ],
+  "user": [
+    {
+      "pseudo": "user42",
+      "likes": 0,
+      "age": 30,
+      "id": 1
+    }
+  ]
+
+}
