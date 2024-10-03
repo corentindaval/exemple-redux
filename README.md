@@ -10,3 +10,7 @@ npm i -g json-server
 
 
 ajout dossier actions et reducers
+
+modif de app.js
+
+composant postform pour exemple d'utilisation de formulaire
