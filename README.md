@@ -14,3 +14,8 @@ ajout dossier actions et reducers
 modif de app.js
 
 composant postform pour exemple d'utilisation de formulaire
+
+
+settoken emptytoken
+
+https://redux-toolkit.js.org/tutorials/quick-start
