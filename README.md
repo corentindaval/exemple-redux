@@ -15,7 +15,4 @@ modif de app.js
 
 composant postform pour exemple d'utilisation de formulaire
 
-
-settoken emptytoken
-
-https://redux-toolkit.js.org/tutorials/quick-start
+https://codesandbox.io/p/sandbox/github/reduxjs/redux-essentials-counter-example/tree/master/?file=%2Fsrc%2Ffeatures%2Fcounter%2FCounter.js&from-embed
